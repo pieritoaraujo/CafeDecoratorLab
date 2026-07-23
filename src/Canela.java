@@ -6,7 +6,7 @@ public class Canela extends DecoratorCafe{
 
     @Override
     public String getDescripcion() {
-        return cafe.getDescripcion() + "con Canela";
+        return cafe.getDescripcion() + " con Canela";
     }
 
     @Override

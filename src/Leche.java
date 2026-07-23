@@ -6,7 +6,7 @@ public class Leche extends DecoratorCafe{
 
     @Override
     public String getDescripcion() {
-        return cafe.getDescripcion() + "con Leche";
+        return cafe.getDescripcion() + " con Leche";
     }
 
     @Override

@@ -6,7 +6,7 @@ public class Chocolate extends DecoratorCafe{
 
     @Override
     public String getDescripcion() {
-        return cafe.getDescripcion() + "con Chocolate";
+        return cafe.getDescripcion() + " con Chocolate";
     }
 
     @Override
